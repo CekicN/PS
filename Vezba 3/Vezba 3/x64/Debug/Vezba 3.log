@@ -1,2 +1,13 @@
 ﻿  Source.c
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,12): warning C4101: 'a': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,9): warning C4101: 'sum': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,31): warning C4101: 'local_a': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,9): warning C4101: 'p': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,18): warning C4101: 'f': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,14): warning C4101: 'pi': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,25): warning C4101: 'prod': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,21): warning C4101: 'x': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,44): warning C4101: 'local_b': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,24): warning C4101: 'h': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,63): warning C4101: 'rez': unreferenced local variable
   Vezba 3.vcxproj -> C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\x64\Debug\Vezba 3.exe
