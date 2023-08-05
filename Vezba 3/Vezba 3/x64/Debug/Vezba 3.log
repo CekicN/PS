@@ -1,13 +1,24 @@
 ﻿  Source.c
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,12): warning C4101: 'a': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,9): warning C4101: 'M': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,34): warning C4101: 'counter': unreferenced local variable
 C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,9): warning C4101: 'sum': unreferenced local variable
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,31): warning C4101: 'local_a': unreferenced local variable
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,9): warning C4101: 'p': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(17,29): warning C4101: 'out_rank': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,18): warning C4101: 'interval_B': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,14): warning C4101: 'p': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(17,11): warning C4101: 'out_val': unreferenced local variable
 C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,18): warning C4101: 'f': unreferenced local variable
 C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,14): warning C4101: 'pi': unreferenced local variable
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,25): warning C4101: 'prod': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,35): warning C4101: 'prod': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(17,3): warning C4101: 'in_val': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,54): warning C4101: 'min': unreferenced local variable
 C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,21): warning C4101: 'x': unreferenced local variable
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,44): warning C4101: 'local_b': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,53): warning C4101: 'local_b': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,30): warning C4101: 'xD': unreferenced local variable
 C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(9,24): warning C4101: 'h': unreferenced local variable
-C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,63): warning C4101: 'rez': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,6): warning C4101: 'interval_A': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(11,30): warning C4101: 'localA': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,72): warning C4101: 'rez': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(17,20): warning C4101: 'in_rank': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(13,43): warning C4101: 'local_min': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\Vezba 3\Source.c(8,66): warning C4101: 'sumi': unreferenced local variable
   Vezba 3.vcxproj -> C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 3\x64\Debug\Vezba 3.exe

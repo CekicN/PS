@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\LAB2\LAB2\Source.c(86,33): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\LAB2\LAB2\Source.c(86,56): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\LAB2\LAB2\Source.c(87,56): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\LAB2\LAB2\Source.c(118,6): warning C4013: 'free' undefined; assuming extern returning int
+  LAB2.vcxproj -> C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\LAB2\x64\Debug\LAB2.exe
