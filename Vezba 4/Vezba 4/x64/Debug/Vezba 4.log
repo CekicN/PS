@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(14,3): warning C4101: 'value': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(16,12): warning C4101: 'indices': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(24,13): warning C4101: 'status': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(17,15): warning C4101: 'old_type': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(21,6): warning C4101: 'mat': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\Vezba 4\Source.c(22,6): warning C4101: 'niz': unreferenced local variable
+  Vezba 4.vcxproj -> C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 4\x64\Debug\Vezba 4.exe
