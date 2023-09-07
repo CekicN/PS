@@ -1,0 +1,25 @@
+﻿  Source.c
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(11,15): warning C4101: 'column': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(16,22): warning C4101: 'irow': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(12,6): warning C4101: 'a': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,15): warning C4101: 'B': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(22,6): warning C4101: 'm_rank': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(19,12): warning C4101: 'group': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,33): warning C4101: 'tmp': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(15,11): warning C4101: 'row_comm': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(12,15): warning C4101: 'b': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(16,14): warning C4101: 'row_id': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(13,27): warning C4101: 'resized_sub': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(12,27): warning C4101: 'q': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,52): warning C4101: 'row': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(16,6): warning C4101: 'col_id': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(15,21): warning C4101: 'col_comm': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(12,21): warning C4101: 'c': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,6): warning C4101: 'A': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,44): warning C4101: 'col': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(18,11): warning C4101: 'COM': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(16,28): warning C4101: 'jcol': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(12,30): warning C4101: 'sub_k': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(13,15): warning C4101: 'sub_matrix': unreferenced local variable
+D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\Vezba 6\Source.c(10,24): warning C4101: 'C': unreferenced local variable
+  Vezba 6.vcxproj -> D:\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 6\x64\Debug\Vezba 6.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 5\Vezba 5\Source.c(25,6): warning C4101: 'members': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 5\Vezba 5\Source.c(26,31): warning C4101: 'neparni': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 5\Vezba 5\Source.c(25,30): warning C4101: 'neparni_rank': unreferenced local variable
+C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 5\Vezba 5\Source.c(26,24): warning C4101: 'parni': unreferenced local variable
+  Vezba 5.vcxproj -> C:\Users\Nikola\Desktop\Faks\3.godina\Paralelni Sistemi\Vezbe\Vezba 5\x64\Debug\Vezba 5.exe
